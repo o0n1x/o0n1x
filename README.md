@@ -2,9 +2,9 @@
 
 - CS Master's Graduate from KAUST
 - Currently learning TypeScript
-- Currently working on Watar, a Vector-Based Music Rating and Recommendation System
-- Love Self-Hosting apps I use even though it takes like 90% of my time
-- An addict to every type of fantasy story narration from Games, Books, to Series and Movies
+- Currently working on **Watar**, a vector-based music rating and recommendation system
+- Love self-hosting the apps I use (even though it takes ~90% of my time)  
+- Addicted to fantasy stories in all forms: games, books, series, and movies
 
 <!--
 **o0n1x/o0n1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
