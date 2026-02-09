@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi! , I'm Abdullah. I write and maintain backend systems with Go and Python.
+
+- I am a Master Graduate from KAUST, and a recent graduate from Boot.dev Backend Dev Bootcamp.
+- I mainly use Golang and Python, and Learning TypeScript.
+- I'm Currently working on Watar, a Vector-Based Music Rating and Recommendation System.
+- I Love Self-Hosting any App I use even though it takes like 90% of my time.
+- I am an addict to every type of fantesy story narration from Games, Books, to Series and Movies
 
 <!--
 **o0n1x/o0n1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
