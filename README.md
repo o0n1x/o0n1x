@@ -1,4 +1,4 @@
-## Hi! , I'm Abdullah. I Build backend systems with Go and Python.
+## Hello , I'm Abdullah. I Build backend systems with Go and Python.
 
 - CS Master's Graduate from KAUST
 - Currently learning TypeScript
